@@ -1,6 +1,6 @@
 #!/lewan
 
-from py.snap import Snapchat
+from py snap import Snapchat
 import sys
 import os
 
